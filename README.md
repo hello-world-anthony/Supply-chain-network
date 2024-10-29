@@ -1,9 +1,2 @@
-#  制造企业供应链知识图谱数据集
-搜集的源数据覆盖了多个专业的企业综合信息平台，通过自动化知识融合算法和人工纠正，分析提取了机械零部件生产企业（供应商）与制造企业（采购商）之间的供需关系约15.8万条，机械零部件生产企业与零部件之间的生产关系约7.6万条，形成了覆盖全国31个省市6万余家机械制造企业的制造企业供应链知识图谱。
+#  The Industiral Supply Chain Dataset will be available
 ![graph500](https://github.com/hello-world-anthony/Supply-chain-network/assets/45258838/2c012762-c9a8-482e-985b-ddb0df7f0a73)
-
-
-下列是各个文件说明：
-- node_supplier.csv 包含2w余家供应商企业信息
-- sup2cli_embedding.csv 包含6w余家制造企业与机械零部件供应商的供应关系
-- sup2pro_embedding.csv 包含机械零部件供应商和机械零部件的生产关系
